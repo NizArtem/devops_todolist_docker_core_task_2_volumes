@@ -12,3 +12,5 @@ Now lets run container:
 docker run -d --name <container_name> -p 8000:8080 <app_tag>
 After this you will have acces to app by the ports that you gaive in the previus command:
 http://localhost:8000/
+Link to the DockerHub:
+https://hub.docker.com/repository/docker/nizartem/todoapp/tags

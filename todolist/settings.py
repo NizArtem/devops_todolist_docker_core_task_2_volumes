@@ -80,7 +80,6 @@ DATABASES = {
     #     "PASSWORD": "my-secret-pw", 
     #     "USER": "root",
     # }
-#}
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.7/topics/i18n/
